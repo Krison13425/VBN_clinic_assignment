@@ -1,0 +1,46 @@
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Admin.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Create.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Reset.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Nurse.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Patient_Info.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Bill_Statement.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Login.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Cal.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Doctor.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Diagnosis.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Patient_View.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Doctor_Dignosis.resources
+C:\Users\Kriso\Desktop\VBN Clinic\Clinic\Clinic\obj\Debug\Clinic.Del.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\bin\Debug\Clinic.xml
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.vbprojAssemblyReference.cache
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Admin.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Bill_Statement.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Create.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Del.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Doctor_Dignosis.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Doctor.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Login.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Cal.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Diagnosis.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Resources.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Nurse.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Patient_Info.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Patient_View.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.Reset.resources
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.vbproj.GenerateResource.cache
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.xml
+C:\Users\Kriso\Desktop\TanChun Meng Tp055028 Clinic VBN\Clinic\Clinic\obj\Debug\Clinic.pdb

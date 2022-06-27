@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clinic.Admin" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAgCAAAAAAAACAAAACAAABAACAAAAAIAEAAAA=</HashCode>
+      <FileName>Admin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Create" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAgEAigEAgAAABCBAAECAAAAAABAwAAAAAEAAkA=</HashCode>
+      <FileName>Create.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.SQLControl" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAAEAAAAAAAAABACAAAAAIAABAQCAAAAA=</HashCode>
+      <FileName>My Project\SQLControl.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Reset" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgEGigMBgACAACAAAACACAAAAAAQAABEAEgAsA=</HashCode>
+      <FileName>Reset.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.My.MyApplication" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.My.MySettings" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Nurse" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAgDAAAAAAAACAAAACAAIAAAAAAAAAAAMAAIA=</HashCode>
+      <FileName>Nurse.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Patient_Info" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIBEGKhICSAABAGAAEADAAAhwBEBwhMCIUABCQE=</HashCode>
+      <FileName>Patient Info.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Bill_Statement" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBEEKBIIgkGgQGIACECASAAACSAwEADkQAgAAA=</HashCode>
+      <FileName>Bill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Doctor" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAAAAAAACAAAgCAAAAAAAAQAAAAAEAAAA=</HashCode>
+      <FileName>Doctor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Login" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAgEACgEAAAAAACAAABCAAAAAABAQAAQAAEAAkA=</HashCode>
+      <FileName>Login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Cal" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAkAgAiAAAACAAAAAAAAAAACAAARAAA=</HashCode>
+      <FileName>My Project\Cal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.SQL_Control" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>My Project\SQL Control.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clinic.Patient_View" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAMBAECRMAAQEICGgAKACAAAIAAHAQIEBgAAAAQE=</HashCode>
+      <FileName>Patient View.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Clinic.My.MySettingsProperty" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Clinic.My.Resources.Resources" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
